@@ -1,2 +1,2 @@
-# webteema
-Nummareiden graafisen ohjeiston mukainen CSS teema
+# Suppis.fi
+Suppis.fi Nettisivu!
